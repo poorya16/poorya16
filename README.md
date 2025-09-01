@@ -28,7 +28,7 @@ Here are some of the tools and languages I work with:
 
 ## 📊 GitHub Stats
 
-![ATM](https://github.com/poorya16/ATM)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=radical)
 
 ---
