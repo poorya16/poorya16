@@ -1,8 +1,4 @@
-Got it 👑 — let’s make you a **professional, eye-catching README** for your GitHub profile main page. Here’s a clean template you can customize:
-
----
-
-# 👋 Hi, I’m \[Your Name]
+# 👋 Hi, I’m \[Poorya Hamidian]
 
 Welcome to my GitHub! 🚀
 I’m passionate about **technology, problem solving, and continuous learning**. Here, you’ll find my projects, experiments, and contributions.
@@ -23,10 +19,10 @@ I’m passionate about **technology, problem solving, and continuous learning**.
 Here are some of the tools and languages I work with:
 
 **Languages**
-`Python` | `JavaScript` | `C++` | `SQL`
+`Python` | `C++` | `SQL`
 
 **Frameworks & Tools**
-`Django` | `React` | `Node.js` | `MySQL` | `Git` | `Linux`
+`Html` | `CSS` | `MySQL` | `Git`
 
 ---
 
@@ -46,7 +42,3 @@ Here are some of the tools and languages I work with:
 ---
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*
-
----
-
-Do you want me to make this README **minimal and clean**, or more **flashy with badges, animations, and visitor counters**?
